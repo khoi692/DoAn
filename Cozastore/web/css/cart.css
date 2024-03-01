@@ -1,0 +1,282 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Mar 6, 2023, 9:57:35 AM
+    Author     : pc
+*/
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+body{
+    margin: 0;
+}
+.warning-stock{
+    color: red;
+    position: absolute;
+    z-index: 5;
+    transform: translate(10px, -35px);
+}
+.cart-title{
+    color: firebrick;
+    font-family:'utm_bitsumishi_proregular';
+    font-weight: lighter;
+    text-decoration: none;
+}
+#cart-top-bar{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    border-width: 0px 0px 2px 0px;
+    border-style: dotted;
+    border-color: rgb(121, 104, 30);
+}
+
+.cart-funct-butt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    background: #1a76ffa6;
+    width: 100%;
+    height: 25px;
+    color: white;
+    transition-property: height;
+    transition-duration: 0.25s;
+}
+.cart-funct-butt:hover{
+    background: #0066ffcf;
+    height: 60px;
+}
+
+.fdsafdsa-text{
+    font-family: sans-serif;
+    margin: 0;
+}
+#fdsavc-submit-buy-bound{
+    background-image: repeating-linear-gradient(45deg,#212529,#515151 33px,transparent 0,transparent 41px,#000000 0,#f18d9b00 74px,transparent 0,transparent 82px);
+    display: flex;
+    position: sticky;
+    top: 100px;
+    position: -webkit-sticky; /* Safari */
+}
+#fdsavc-submit-buy{
+    margin: 3px;
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: white;
+}
+#dsavcx-sumary-price{
+    color: crimson;
+    font-weight: lighter;
+    font-size: 2.5rem;
+}
+
+#commit-buy-cart-dsa:hover{
+    background: black;
+}
+
+
+.counter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.counter button {
+    width: 30px;
+    height: 30px;
+    font-size: 1rem;
+}
+
+.counter input {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+.fdytrfdsa-link{
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+    font-family: sans-serif;
+    color: #1a76ffa6;
+}
+.fdytrfdsa-link:hover{
+    background: #eee;
+}
+.cart-item-rep-bound{
+    background: white;
+}
+.cart-item-bound{
+    background: white;
+    width: 100%;
+    display: flex;
+    height: 150px;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+
+}
+.inner-field-cart{
+    height: 100%;
+
+}
+.cart-product-img{
+    height: 60%;
+    margin-left: 10px;
+}
+.cart-product-name{
+    font-family:'Arial';
+    font-weight: lighter;
+    font-size: 1rem;
+}
+.cart-old-price{
+    text-decoration: line-through;
+    font-size: .75rem;
+}
+.final-price-cart{
+    color: #8f8585;
+    font-size: 1.25rem;
+}
+.control {
+    font-family: arial;
+    display: block;
+    position: relative;
+    padding-left: 30px;
+    margin-bottom: 5px;
+    padding-top: 3px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.control input {
+    position: absolute;
+    z-index: -1;
+    opacity: 0;
+}
+.control_indicator {
+    position: absolute;
+    top: 2px;
+    left: 0;
+    height: 20px;
+    width: 20px;
+    background: #dadada;
+    border: 0px solid #000000;
+    border-radius: 0px;
+}
+.control:hover input ~ .control_indicator,
+.control input:focus ~ .control_indicator {
+    background: #928383;
+}
+
+.control input:checked ~ .control_indicator {
+    background: #c02a43;
+}
+.control:hover input:not([disabled]):checked ~ .control_indicator,
+.control input:checked:focus ~ .control_indicator {
+    background: #ba2f2f;
+}
+.control input:disabled ~ .control_indicator {
+    background: #e6e6e6;
+    opacity: 8;
+    pointer-events: none;
+}
+.control_indicator:after {
+    box-sizing: unset;
+    content: '';
+    position: absolute;
+    display: none;
+}
+.control input:checked ~ .control_indicator:after {
+    display: block;
+}
+.control-checkbox .control_indicator:after {
+    left: 8px;
+    top: 4px;
+    width: 3px;
+    height: 8px;
+    border: solid #ffffff;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+}
+.control-checkbox input:disabled ~ .control_indicator:after {
+    border-color: #7b7b7b;
+}
+.control-checkbox .control_indicator::before {
+    content: '';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 3.85rem;
+    height: 3.85rem;
+    margin-left: -1.3rem;
+    margin-top: -1.3rem;
+    background: #ff008a;
+    border-radius: 3rem;
+    opacity: 0.6;
+    z-index: 99999;
+    transform: scale(0);
+}
+@keyframes s-ripple {
+    0% {
+        transform: scale(0);
+    }
+    20% {
+        transform: scale(1);
+    }
+    100% {
+        opacity: 0;
+        transform: scale(1);
+    }
+}
+@keyframes s-ripple-dup {
+    0% {
+        transform: scale(0);
+    }
+    30% {
+        transform: scale(1);
+    }
+    60% {
+        transform: scale(1);
+    }
+    100% {
+        opacity: 0;
+        transform: scale(1);
+    }
+}
+.control-checkbox input + .control_indicator::before {
+    animation: s-ripple 250ms ease-out;
+}
+.control-checkbox input:checked + .control_indicator::before {
+    animation-name: s-ripple-dup;
+}
+
+.variant-box{
+    display: flex;
+    border: 1px solid #00000030;
+    justify-content: space-between;
+    align-items: center;
+}
+.variant-box p{
+    margin: 0;
+    padding: 5px;
+}
+.color-variant{
+    border-width: 0px 0px 0px 5px;
+    border-color: white;
+    border-style: solid;
+}
+.variant-opened-box{
+    display: none;
+    position: absolute;
+    background: white;
+    border: 1px solid #00000030;
+    z-index: 20;
+    padding: 10px;
+}

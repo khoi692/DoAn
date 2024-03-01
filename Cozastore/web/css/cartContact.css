@@ -1,0 +1,150 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jun 9, 2023, 10:51:19 PM
+    Author     : pc
+*/
+
+#topz-mark-deco{
+    height: 3px;
+    width: 100%;
+    background-position-x: -30px;
+    background-size: 116px 3px;
+    background-image: repeating-linear-gradient(45deg,#6fa6d6,#6fa6d6 33px,transparent 0,transparent 41px,#f18d9b 0,#f18d9b 74px,transparent 0,transparent 82px);
+}
+#topz-mark-title{
+    display: flex;
+}
+#user-name{
+    font-weight: bold;
+}
+#address-field{
+    display: flex;
+    flex-direction: column;
+}
+#voucher-field{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background: black;
+    --mask:
+        conic-gradient(from 65deg at left,#0000,#000 1deg 49deg,#0000 50deg) left/51% 9.33px repeat-y,
+        conic-gradient(from -115deg at right,#0000,#000 1deg 49deg,#0000 50deg) right/51% 9.33px repeat-y;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+#voucher-field p{
+    color: white;
+    font-weight: bolder;
+    margin: 5px;
+}
+
+#payment-field{
+    background: white;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+#price-final-info{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.price-final-detail{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 70%;
+}
+#total-payment{
+    font-size: 2rem;
+    color: firebrick;
+}
+
+
+/*map*/
+.sb-title {
+  position: relative;
+  top: -12px;
+  font-family: Roboto, sans-serif;
+  font-weight: 500;
+}
+
+.sb-title-icon {
+  position: relative;
+  top: -5px;
+}
+
+.card-container {
+  display: flex;
+  height: 500px;
+}
+
+.panel {
+  background: white;
+  width: 400px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.half-input-container {
+  display: flex;
+  justify-content: space-between;
+}
+#place-search{
+    height: 40px;
+    border: 1px solid black;
+}
+#current-location{
+    height: 40px;
+    width: 291px;
+}
+#map-control-box{
+     display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+.map {
+  width: 500px;
+}
+
+h2 {
+  margin: 0;
+  font-family: Roboto, sans-serif;
+}
+
+input {
+  height: 30px;
+}
+
+input {
+  border: 0;
+  border-bottom: 1px solid black;
+  font-size: 14px;
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+}
+
+input:focus::placeholder {
+  color: white;
+}
+
+.button-cta {
+  height: 40px;
+  width: 40%;
+  background: #3367d6;
+  color: white;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-family: Roboto, sans-serif;
+  border: 0;
+  border-radius: 3px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.48);
+  cursor: pointer;
+}

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c72357f-c294-42f9-bdf5-985d2ee09582" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/AddToCart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/NewClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/updateProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/web/WEB-INF/lib/ckfinder3-3.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/web/WEB-INF/lib/jBCrypt-0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/web/WEB-INF/lib/jakarta.mail-1.6.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/web/WEB-INF/lib/javaee-api-7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/web/images/product/17/black.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/web/images/product/17/white.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/web/images/product/18/black.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/web/images/product/18/white.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/web/images/product/25/grey.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/web/images/product/25/pink.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/web/images/product/3/pink.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/controller/AddToCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/controller/updateProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/product/25/grey.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/product/25/pink.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/CustomerList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/CustomerList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/AddPostController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/AddPostController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/BlogDetailController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/BlogDetailController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/UserListController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/UserListController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/ajax/bloglistAjax.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/ajax/bloglistAjax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/ajax/cartAjax.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/ajax/cartAjax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/getUserByIDController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/getUserByIDController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/productDetailManage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/productDetailManage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/dal/BlogDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/dal/BlogDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/dal/CartDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/dal/CartDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/dal/ProductDAO$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/dal/ProductDAO$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/dal/ProductDAO$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/dal/ProductDAO$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/dal/ProductDAO$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/dal/ProductDAO$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/dal/ProductDAO$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/dal/ProductDAO$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/dal/ProductDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/dal/ProductDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/dal/SizeColorProductDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/dal/SizeColorProductDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/dal/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/dal/UserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/function/DeleteImage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/model/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/model/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/model/dto/UserDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/add_post.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/add_post.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/blog_detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/blog_detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/cartContact.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/cartContact.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/cartdetail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/cartdetail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/components/dashboard_header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/components/dashboard_header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/components/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/components/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/css/admin.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/css/admin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/css/cart.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/css/cart.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/css/product-manage.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/css/product-manage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/dashboard/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/dashboard/alerts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/dashboard/blank.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/dashboard/buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/dashboard/charts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/dashboard/copycontent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/dashboard/dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/dashboard/datatables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/dashboard/dropdowns.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/dashboard/form_advanceds.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/dashboard/form_basics.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/dashboard/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/dashboard/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/dashboard/modals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/dashboard/popovers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/dashboard/product-detail-manage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/dashboard/product-detail-manage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/dashboard/progress-bar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/dashboard/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/dashboard/simple-tables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/dashboard/ui-colors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/excel/product.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/excel/product.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/images/blog_thumbnail/blog-36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/js/cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/js/cart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/js/cartContact.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/js/cartContact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/js/productDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/js/productDetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/product-detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/product-detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/private/private.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/controller/AddPostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/controller/AddPostController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/controller/BlogDetailController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/controller/BlogDetailController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/controller/UserListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/controller/UserListController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/controller/ajax/bloglistAjax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/controller/ajax/bloglistAjax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/controller/ajax/cartAjax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/controller/ajax/cartAjax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/controller/getUserByIDController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/controller/getUserByIDController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/controller/productDetailManage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/controller/productDetailManage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/dal/BlogDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/dal/BlogDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/dal/CartDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/dal/CartDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/dal/ProductDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/dal/ProductDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/dal/SizeColorProductDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/dal/SizeColorProductDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/dal/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/dal/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/function/DeleteImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/model/dto/UserDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/CustomerList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/CustomerList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/add_post.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/add_post.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/blog_detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/blog_detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/cartContact.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/cartContact.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/cartdetail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/cartdetail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/components/dashboard_header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/components/dashboard_header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/components/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/components/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/admin.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/admin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/cart.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/cart.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/product-manage.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/product-manage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/dashboard/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/dashboard/alerts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/dashboard/blank.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/dashboard/buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/dashboard/charts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/dashboard/copycontent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/dashboard/dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/dashboard/datatables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/dashboard/dropdowns.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/dashboard/form_advanceds.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/dashboard/form_basics.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/dashboard/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/dashboard/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/dashboard/modals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/dashboard/popovers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/dashboard/product-detail-manage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/dashboard/product-detail-manage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/dashboard/progress-bar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/dashboard/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/dashboard/simple-tables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/dashboard/ui-colors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/excel/product.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/web/excel/product.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/blog_thumbnail/blog-36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/js/cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/js/cart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/js/cartContact.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/js/cartContact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/js/productDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/js/productDetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/product-detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/product-detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newnewnew.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../supanovaSQL.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Q80Z7O0aSfw0Y8Pd8mCYwXj3em" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/Template NP/FruitShop",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c72357f-c294-42f9-bdf5-985d2ee09582" name="Changes" comment="" />
+      <created>1684719954507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684719954507</updated>
+    </task>
+    <servers />
+  </component>
+</project>
